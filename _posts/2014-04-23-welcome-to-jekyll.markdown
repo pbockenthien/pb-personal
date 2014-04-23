@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ffruits of the Spirit"
 date:   2014-04-23 08:27:44
-categories: jekyll update
+categories: legalism
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions.
 
-Jekyll also offers powerful support for code snippets:
+Soil resources are not thought of as a transaction, but rather a free resource to destroy.
 
 {% highlight ruby %}
 def print_hi(name)
