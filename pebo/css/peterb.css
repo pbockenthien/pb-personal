@@ -11,7 +11,12 @@ font-family: 'Architects Daughter', cursive;
 body {
   position: relative;
   padding-top: 60px;
- background: #587c92;
+}
+body { 
+	background-image:
+    linear-gradient(
+      #8cc3e5, #587c92
+    );
 }
 body.fots{
 	font: 16px/1.5 'Handlee', cursive;
@@ -27,8 +32,17 @@ body.fots a {
 	background-color: #fbe2b9;
 	padding: 20px;
 	margin-bottom: 20px;
-	box-shadow: 0px 0px 20px #6b8aa4;
+	box-shadow: 0px 0px 60px #444;
 	color: #3c5976;
+}
+.bockenthien {
+	background-image:
+    linear-gradient(
+      #fbe2b9, #ebd472
+    );
+}
+this blue{
+	background-color: #8cc3e5;
 }
 .navbar-inner {
 	background-color: #839066;
@@ -885,8 +899,9 @@ a#pb4:hover {
     float: none;
   }
   .footer p {
-    margin-bottom: 9px;
-  }
+    margin-bottom: 2px;
+	color: #fff;
+}
 
 }
 
@@ -947,4 +962,10 @@ a#pb4:hover {
     width: 1168px; /* 2px less to account for left/right borders being removed when in fixed mode */
   }
 
+}
+.footer p, .footer p.small {
+	color: #fff;
+}
+.footer a {
+	color: #ead379;
 }
