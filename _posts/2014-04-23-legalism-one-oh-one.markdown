@@ -3,6 +3,7 @@ layout: post
 title:  Mammon Institutionalized
 date:   2014-04-23
 categories: legalism
+permalink: mammon-institutionalized.html
 ---
 
 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions.
