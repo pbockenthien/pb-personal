@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fruits of the Spirit"
-date:   2014-04-23 08:27:44
+title:  Fruits of the Spirit
+date:   2014-04-23
 categories: legalism
 ---
 
