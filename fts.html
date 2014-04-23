@@ -50,6 +50,7 @@
           <li><a href="essays.html">Writings/Essays</a></li>
           <li><a href="analysis.html">Analysis</a></li>
           <li><a href="resume.html">Résumé</a></li>
+          <li><a href="fts.html">Fruits of the Spirit</a></li>
           <li class="divider"></li>
           <li><a href="http://organnex.org/" target="_blank">OrgAnnex</a></li>
           <li><a href="http://mospherix.com/" target="_blank">@mospherix</a></li>
@@ -64,7 +65,7 @@
 <!--Content: Peter Bockenthien-->
   <div class="row">
   <div class="span12">
-   <h1>Essays. Diatribes. Hopefully a little common sense to counter the negative dogma promulgated on TV.</h1>
+   <h1>Fruits of the Spirit</h1>
       <!-- Essays by Peter Bockenthien-->
 
 <p>Click on the short links below to open their tab contents</p>
@@ -73,13 +74,9 @@
 <div class="row">
 	<div class="span3 peter-sidebar">
 		<ul class="nav nav-list peter-sidenav">
-			<li class="active"><a data-toggle="tab" href="#boogie">The Full Tilt Boogie</a></li>
-			<li><a data-toggle="tab" href="#aim">Ready, Aim, Love</a></li>
-			<li><a data-toggle="tab" href="#belief">Power of Belief</a></li>
-			<li><a data-toggle="tab" href="#millenials">Millenials</a></li>
-			<li><a data-toggle="tab" href="#inequal">Inequal Outcomes</a></li>
-			<li><a data-toggle="tab" href="#legalism">Legalism</a></li>
-			<li><a data-toggle="tab" href="#greater">No Greater Love</a></li>
+			{% for post in site.posts %}
+                <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
 		</ul>
 	</div>
 
@@ -111,7 +108,7 @@
 				<div class="tab-pane" id="greater">
 				
 				</div>
-				
+
 			</div>
 		</div>
 	</div>
