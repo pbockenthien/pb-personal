@@ -1,0 +1,6 @@
+name: Fruits of the Spirit
+markdown: redcarpet
+pygments: true
+permalink: title
+baseurl: /
+timezone: America/Denver
