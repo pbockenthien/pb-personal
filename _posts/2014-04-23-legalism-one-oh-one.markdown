@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Fruits of the Spirit
+title:  Mammon Institutionalized
 date:   2014-04-23
 categories: legalism
 ---
