@@ -8,17 +8,16 @@ permalink: mammon-institutionalized.html
 
 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions.
 
-Soil resources are not thought of as a transaction, but rather a free resource to destroy.
+Nature's resources are not thought of as a transaction, but rather a free resource to destroy. Nature is the basis for ALL economic activity on Earth. Everything you interact with came from the Earth.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+But for how much longer will this continue. We are using non-renewable resources. The computer I'm typing on was built in China, the rare earth metals that make a computer possible were mined in China. The fossil fuels used to ship it across the ocean came from the Earth.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+All of the above economic activities created toxic waste that has and continues to poison us. This `economy` has set itself up as a permanent substitute for that it has destroyed. In other words, its fate is sealed.
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Everything that makes this resource destruction possible are laws. All transactions occur only in this realm. Its fate also is sealed. The entire economy as we know it is collapsing right in front of our eyes. 
+
+You either serve Life, Love, or you serve destruction.
+
+The only way to recover from this is growing hemp and marijuana. Hemp is needed to phytoremediate chemically damaged soil so that we can grow organically once again. Hemp will provide us with everything we need.
+
+Marijuana will remediate the cancers and other disease that resource destruction has brought on.
