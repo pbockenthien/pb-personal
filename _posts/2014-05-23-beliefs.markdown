@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Beliefs About Beliefs Do Not Equal Truth
+title:  Beliefs About Beliefs
 date:   2014-05-23
 category: beliefs
 permalink: beliefs.html
