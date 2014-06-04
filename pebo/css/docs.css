@@ -1,22 +1,12 @@
-/* Add additional stylesheets below
--------------------------------------------------- */
-/*
-  Bootstrap's documentation styles
-  Special styles for presenting Bootstrap's documentation and examples
-*/
 
-
-/* Body and structure
--------------------------------------------------- */
+/* Body and structure */
 body {
   position: relative;
   padding-top: 60px;
  
 }
 
-
-/* Tweak navbar brand link to be super sleek
--------------------------------------------------- */
+/* Tweak navbar brand link to be super sleek */
 .navbar-fixed-top .brand {
   padding-right: 0;
   padding-left: 0;

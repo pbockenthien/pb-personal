@@ -1,7 +1,5 @@
 /* Bootstrap v2.0.4 */
-@import url(http://fonts.googleapis.com/css?family=Cantora+One|Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic);
-/*font-family: 'Cantora One', sans-serif;
-font-family: 'Source Sans Pro', sans-serif;*/
+
 article,
 aside,
 details,
@@ -152,13 +150,12 @@ textarea {
 body {
   margin: 0;
   color: #333333;
-	font: 1em/1.5 'Source Sans Pro', "Helvetica Neue", Helvetica, Arial, sans-serif;
-	/*background: #32430c url(../img/header.png) repeat-x;*/
+  font: 1em/1.5 'Gabriela', serif;
+  /*background: #32430c url(../img/header.png) repeat-x;*/
 }
 
 a {
-  color: #7069c0;
-  color: #32430c;
+  color: #fc4b0e;
   text-decoration: none;
 }
 
@@ -432,12 +429,12 @@ p small {
 
 h1,h2,h3,h4,h5,h6 {
   margin: 0 0 10px;
-  /*font-family: inherit;*/
-  font-weight: 400;
+  font-weight: 700;
   color: inherit;
   text-rendering: optimizelegibility;
-  font-family: 'Source Sans Pro', sans-serif;
-	line-height: 1.75;
+  font-family: 'Ruda', sans-serif;
+  line-height: 1.75;
+	letter-spacing: -.05em;
 }
 
 h1 small,
@@ -506,7 +503,7 @@ h6 {
 
 .page-header h1 {
   line-height: 1;
-	padding-top: 18px;
+  padding-top: 18px;
 }
 
 ul,
@@ -2359,25 +2356,25 @@ table .span24 {
 [class*=" icon-lg-"]:last-child {
   *margin-left: 0;
 }
-.icon-lg-standards {background-position: -431px -94px;	
+.icon-lg-standards {background-position: -431px -94px;  
 }
-.icon-lg-shovel {background-position: -95px -1245px;	
+.icon-lg-shovel {background-position: -95px -1245px;  
 }
-.icon-lg-bees {background-position: -48px -1295px;	
+.icon-lg-bees {background-position: -48px -1295px;  
 }
-.icon-lg-food {background-position: -94px -1295px;	
+.icon-lg-food {background-position: -94px -1295px;  
 }
-.icon-lg-news {background-position: -46px -717px;	
+.icon-lg-news {background-position: -46px -717px; 
 }
-.icon-lg-skull {background-position: 2px -1390px;	
+.icon-lg-skull {background-position: 2px -1390px; 
 }
-.icon-lg-bomb {background-position: -385px -1439px;	
+.icon-lg-bomb {background-position: -385px -1439px; 
 }
-.icon-lg-sections {background-position: -240px -1532px;	
+.icon-lg-sections {background-position: -240px -1532px; 
 }
-.icon-lg-recycle {background-position: -96px -382px;	
+.icon-lg-recycle {background-position: -96px -382px;  
 }
-.icon-lg-check {background-position: -2px -722px;	
+.icon-lg-check {background-position: -2px -722px; 
 }
 
 
@@ -4880,8 +4877,8 @@ a.badge:hover {
 .carousel .item > img {
   display: block;
   line-height: 1;
-	margin-left: 4%;
-	text-align: center;
+  margin-left: 4%;
+  text-align: center;
 }
 
 .carousel .active,
@@ -4963,7 +4960,7 @@ a.badge:hover {
   padding: 10px 15px 5px;
   background: rgba(255,255,255,0.26);
   border-radius:6px;
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 .carousel-caption h4,
@@ -4971,8 +4968,8 @@ a.badge:hover {
   color: rgba(0,0,0,0.6);
 }
 .carousel-caption h4 {
-	font-size: 2em;
-	margin-bottom: 20px;
+  font-size: 2em;
+  margin-bottom: 20px;
 }
 
 .hero-unit {
